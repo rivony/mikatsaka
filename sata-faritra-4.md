@@ -42,7 +42,7 @@
 `And8`: Ireo zo hoan'ny tsirairay:
 - Zo hovangiana raha marary any amin'ny hopitaly ny tena, ny zanaka ary ny ray aman-dreny niteraka;
 - Zo hovangiana raha maty ny tena na ny zanaka na ny ray aman-dreny niteraka;
-- Zo hohatronon'ny birao raha hatao Batisa ao am-piangonana ny zanaka;
+- Zo hotronon'ny birao raha hatao Batisa ao am-piangonana ny zanaka;
 - Zo hovangiana raha afaka fanadinana ofisialy (CEPE, BEPC, Bakalorea, License, Master I na II);
 
 `And9`: Ireo zo tokony ho sitrahin'ny kristianina miaraka:
